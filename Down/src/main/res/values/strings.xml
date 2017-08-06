@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Countdown</string>
+    <string name="countdown">倒计时</string>
+</resources>
